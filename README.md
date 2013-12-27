@@ -46,6 +46,9 @@ If you have a different theme other than the default, you will need to copy the 
 </table>
 
 ### Release Notes
+##### v3.0.1
+- Using .pager .next as the default CSS selector for the Next page
+
 ##### v3.0.0
 - Changed infinite scroll library (now using: https://github.com/webcreate/infinite-ajax-scroll)
 - Improved memory system
