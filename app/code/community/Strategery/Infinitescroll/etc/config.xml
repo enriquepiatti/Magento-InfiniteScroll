@@ -17,15 +17,17 @@
  * @author     Gabriel Somoza (me@gabrielsomoza.com)
  * @link       http://gabrielsomoza.com/
  * 
- * Update 2.0.0
  * @author     Damian A. Pastorini (admin@dwdesigner.com)
  * @link       http://www.dwdesigner.com/
+ *
+ * @author     Enrique Piatti (contacto@enriquepiatti.com)
+ * @link       http://www.enriquepiatti.com/
  */
 -->
 <config>
     <modules>
         <Strategery_Infinitescroll>
-            <version>3.0.1</version>
+            <version>3.0.2</version>
         </Strategery_Infinitescroll>
     </modules>
     <global>
